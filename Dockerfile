@@ -1,1 +1,2 @@
-test
+FROM ubuntu:latest
+MAINTAINER IartemidaI
